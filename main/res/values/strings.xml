@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Lab1</string>
+    <string name="Height">Wzrost</string>
+    <string name="MetricalHeightError">Wysokość musi być z przedziału od 0.5 do 2.5 m</string>
+    <string name="ImperialHeightError">Wysokość musi być z przedziału od 1.6 do 8.2 ft</string>
+    <string name="Mass">Masa</string>
+    <string name="MetricalMassError">Masa musi być z przedziału od 40 do 250 kg</string>
+    <string name="ImperialMassError">Masa musi być z przedziału od 6 do 40 st</string>
+    <string name="Count">Oblicz</string>
+    <string name="BMI">Twoje BMI:</string>
+    <string name="Units">Jednostki</string>
+    <string name="UnitsMassMetrical">kg</string>
+    <string name="UnitsMassImperial">st</string>
+    <string name="UnitsHeightMetrical">m</string>
+    <string name="UnitsHeightImperial">ft</string>
+    <string name="Metrical">Metryczne</string>
+    <string name="Imperial">Imperialne</string>
+    <string name="BMIText1">Wygłodzenie</string>
+    <string name="BMIText2">Wychudzenie</string>
+    <string name="BMIText3">Niedowaga</string>
+    <string name="BMIText4">Wartość prawidłowa</string>
+    <string name="BMIText5">Nadwaga</string>
+    <string name="BMIText6">I Stopień Otyłości</string>
+    <string name="BMIText7">II Stopień Otyłości</string>
+    <string name="BMIText8">III Stopień Otyłości</string>
+    <string name="action_save">Zapisz</string>
+    <string name="action_share">Udostępnij</string>
+    <string name="action_about">O autorze</string>
+    <string name="Author">Kamil Raczycki</string>
+    <string name="ShareBody">Moje BMI to:</string>
+    <string name="ShareSubject">Moje BMI</string>
+    <string name="ShareVia">Udostępnij przez</string>
+    <string name="Saved">Zapisano</string>
+</resources>
